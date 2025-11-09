@@ -12,9 +12,8 @@ function App() {
 
   return (
     <div style={{ padding: 20 }}>
-      <h1>Frontend React App</h1>
-      <h2>Message from Backend:</h2>
-      <p>{message}</p>
+      <h1>React frontend successfully</h1>
+       <p>{message}</p>
     </div>
   );
 }
